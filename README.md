@@ -1,4 +1,4 @@
-## React-Firebase Boilerplate
+## React-Firebase Demo
 
 Simple React-Firebase architecture.
 
